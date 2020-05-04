@@ -14,6 +14,8 @@ Docker_flask_linear_regression_example_on_VSC
   
 + [pickle - Python object serialization](https://docs.python.org/3/library/pickle.html)
 
++ [sklearn.datasets.load_diabetes](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html)
+
 
 ## Docker commands after coding (assuming docker desktop is running)
 
